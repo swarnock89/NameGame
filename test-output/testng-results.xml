@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="8" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Name Game Suite" duration-ms="217173" started-at="2017-11-15T15:32:56Z" finished-at="2017-11-15T15:36:33Z">
+    <groups>
+    </groups>
+    <test name="Title Present Test" duration-ms="4259" started-at="2017-11-15T15:32:56Z" finished-at="2017-11-15T15:33:00Z">
+      <class name="testScripts.CheckTitleScript">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testScripts.CheckTitleScript@215be6bb]" name="beforeMethod" is-config="true" duration-ms="4073" started-at="2017-11-15T10:32:56Z" finished-at="2017-11-15T10:33:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TitlePresentScript()[pri:0, instance:testScripts.CheckTitleScript@215be6bb]" name="TitlePresentScript" duration-ms="117" started-at="2017-11-15T10:33:00Z" finished-at="2017-11-15T10:33:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitlePresentScript -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testScripts.CheckTitleScript@215be6bb]" name="afterMethod" is-config="true" duration-ms="39" started-at="2017-11-15T10:33:00Z" finished-at="2017-11-15T10:33:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testScripts.CheckTitleScript -->
+    </test> <!-- Title Present Test -->
+    <test name="Attempts Increments Script" duration-ms="3836" started-at="2017-11-15T15:33:00Z" finished-at="2017-11-15T15:33:04Z">
+      <class name="testScripts.AttemptsIncrementsScript">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testScripts.AttemptsIncrementsScript@675d3402]" name="beforeMethod" is-config="true" duration-ms="2988" started-at="2017-11-15T10:33:00Z" finished-at="2017-11-15T10:33:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="AttemptsIncrementTest()[pri:0, instance:testScripts.AttemptsIncrementsScript@675d3402]" name="AttemptsIncrementTest" duration-ms="809" started-at="2017-11-15T10:33:03Z" finished-at="2017-11-15T10:33:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AttemptsIncrementTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testScripts.AttemptsIncrementsScript@675d3402]" name="afterMethod" is-config="true" duration-ms="35" started-at="2017-11-15T10:33:04Z" finished-at="2017-11-15T10:33:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testScripts.AttemptsIncrementsScript -->
+    </test> <!-- Attempts Increments Script -->
+    <test name="Check Counters Test" duration-ms="124111" started-at="2017-11-15T15:33:04Z" finished-at="2017-11-15T15:35:08Z">
+      <class name="testScripts.CheckCountersTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testScripts.CheckCountersTest@5c7fa833]" name="beforeMethod" is-config="true" duration-ms="3108" started-at="2017-11-15T10:33:04Z" finished-at="2017-11-15T10:33:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="CountersTest()[pri:0, instance:testScripts.CheckCountersTest@5c7fa833]" name="CountersTest" duration-ms="120999" started-at="2017-11-15T10:33:07Z" finished-at="2017-11-15T10:35:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CountersTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testScripts.CheckCountersTest@5c7fa833]" name="afterMethod" is-config="true" duration-ms="1" started-at="2017-11-15T10:35:08Z" finished-at="2017-11-15T10:35:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testScripts.CheckCountersTest -->
+    </test> <!-- Check Counters Test -->
+    <test name="Check Title Test" duration-ms="3162" started-at="2017-11-15T15:35:08Z" finished-at="2017-11-15T15:35:11Z">
+      <class name="testScripts.CheckTitleScript">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testScripts.CheckTitleScript@cc285f4]" name="beforeMethod" is-config="true" duration-ms="3023" started-at="2017-11-15T10:35:08Z" finished-at="2017-11-15T10:35:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TitlePresentScript()[pri:0, instance:testScripts.CheckTitleScript@cc285f4]" name="TitlePresentScript" duration-ms="102" started-at="2017-11-15T10:35:11Z" finished-at="2017-11-15T10:35:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TitlePresentScript -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testScripts.CheckTitleScript@cc285f4]" name="afterMethod" is-config="true" duration-ms="32" started-at="2017-11-15T10:35:11Z" finished-at="2017-11-15T10:35:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testScripts.CheckTitleScript -->
+    </test> <!-- Check Title Test -->
+    <test name="Photos Change Test" duration-ms="11763" started-at="2017-11-15T15:35:11Z" finished-at="2017-11-15T15:35:23Z">
+      <class name="testScripts.PhotosChangeTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testScripts.PhotosChangeTest@1d057a39]" name="setUp" is-config="true" duration-ms="3085" started-at="2017-11-15T10:35:11Z" finished-at="2017-11-15T10:35:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ChangeTest()[pri:0, instance:testScripts.PhotosChangeTest@1d057a39]" name="ChangeTest" duration-ms="8636" started-at="2017-11-15T10:35:14Z" finished-at="2017-11-15T10:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ChangeTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testScripts.PhotosChangeTest@1d057a39]" name="tearDown" is-config="true" duration-ms="40" started-at="2017-11-15T10:35:23Z" finished-at="2017-11-15T10:35:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testScripts.PhotosChangeTest -->
+    </test> <!-- Photos Change Test -->
+    <test name="Streak Breaker Test" duration-ms="46103" started-at="2017-11-15T15:35:23Z" finished-at="2017-11-15T15:36:09Z">
+      <class name="testScripts.StreakBreakerTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testScripts.StreakBreakerTest@28d25987]" name="beforeMethod" is-config="true" duration-ms="4258" started-at="2017-11-15T10:35:23Z" finished-at="2017-11-15T10:35:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TestStreakBreak()[pri:0, instance:testScripts.StreakBreakerTest@28d25987]" name="TestStreakBreak" duration-ms="41789" started-at="2017-11-15T10:35:27Z" finished-at="2017-11-15T10:36:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestStreakBreak -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testScripts.StreakBreakerTest@28d25987]" name="afterMethod" is-config="true" duration-ms="53" started-at="2017-11-15T10:36:09Z" finished-at="2017-11-15T10:36:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testScripts.StreakBreakerTest -->
+    </test> <!-- Streak Breaker Test -->
+    <test name="Streak Counter Increments Test" duration-ms="4446" started-at="2017-11-15T15:36:09Z" finished-at="2017-11-15T15:36:13Z">
+      <class name="testScripts.StreakCounterIncrementsTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testScripts.StreakCounterIncrementsTest@26653222]" name="beforeMethod" is-config="true" duration-ms="3076" started-at="2017-11-15T10:36:09Z" finished-at="2017-11-15T10:36:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="StreakCounterTest()[pri:0, instance:testScripts.StreakCounterIncrementsTest@26653222]" name="StreakCounterTest" duration-ms="1329" started-at="2017-11-15T10:36:12Z" finished-at="2017-11-15T10:36:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StreakCounterTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testScripts.StreakCounterIncrementsTest@26653222]" name="afterMethod" is-config="true" duration-ms="37" started-at="2017-11-15T10:36:13Z" finished-at="2017-11-15T10:36:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testScripts.StreakCounterIncrementsTest -->
+    </test> <!-- Streak Counter Increments Test -->
+    <test name="Minimum Sleep Test" duration-ms="19414" started-at="2017-11-15T15:36:13Z" finished-at="2017-11-15T15:36:33Z">
+      <class name="testScripts.MinimumSleepTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:testScripts.MinimumSleepTest@3e6fa38a]" name="beforeMethod" is-config="true" duration-ms="3013" started-at="2017-11-15T10:36:13Z" finished-at="2017-11-15T10:36:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="FAIL" signature="f()[pri:0, instance:testScripts.MinimumSleepTest@3e6fa38a]" name="f" duration-ms="16394" started-at="2017-11-15T10:36:16Z" finished-at="2017-11-15T10:36:33Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at testScripts.MinimumSleepTest.f(MinimumSleepTest.java:53)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:669)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:877)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1201)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:776)
+	at org.testng.TestRunner.run(TestRunner.java:634)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:425)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:420)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:385)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:334)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1318)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1243)
+	at org.testng.TestNG.runSuites(TestNG.java:1161)
+	at org.testng.TestNG.run(TestNG.java:1129)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:testScripts.MinimumSleepTest@3e6fa38a]" name="afterMethod" is-config="true" duration-ms="0" started-at="2017-11-15T10:36:33Z" finished-at="2017-11-15T10:36:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- testScripts.MinimumSleepTest -->
+    </test> <!-- Minimum Sleep Test -->
+  </suite> <!-- Name Game Suite -->
+</testng-results>

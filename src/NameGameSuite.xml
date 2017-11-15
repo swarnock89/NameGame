@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Name Game Suite" parallel="false">
+  <test name="Title Present Test">
+    <classes>
+      <class name="testScripts.CheckTitleScript"/>
+    </classes>
+  </test>
+  <test name="Attempts Increments Script">
+  	<classes>
+  	  <class name="testScripts.AttemptsIncrementsScript"/>
+  	</classes>
+  </test>
+  <test name="Check Counters Test">
+    <classes>
+      <class name="testScripts.CheckCountersTest"/>
+    </classes>
+  </test>
+  <test name="Check Title Test">
+    <classes>
+      <class name="testScripts.CheckTitleScript"/>
+    </classes>
+  </test>
+  <test name="Photos Change Test">
+    <classes>
+      <class name="testScripts.PhotosChangeTest"/>
+    </classes>
+  </test>
+  <test name="Streak Breaker Test">
+    <classes>
+      <class name="testScripts.StreakBreakerTest"/>
+    </classes>
+  </test>
+  <test name="Streak Counter Increments Test">
+    <classes>
+      <class name="testScripts.StreakCounterIncrementsTest"/>
+    </classes>
+  </test>
+  <test name="Minimum Sleep Test">
+    <classes>
+      <class name="testScripts.MinimumSleepTest"/>
+    </classes>
+  </test>
+</suite> <!-- Suite -->

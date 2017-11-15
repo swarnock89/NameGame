@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Name Game Suite]">
+  <test name="Minimum Sleep Test(failed)">
+    <classes>
+      <class name="testScripts.MinimumSleepTest">
+        <methods>
+          <include name="f"/>
+          <include name="beforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- testScripts.MinimumSleepTest -->
+    </classes>
+  </test> <!-- Minimum Sleep Test(failed) -->
+</suite> <!-- Failed suite [Name Game Suite] -->
